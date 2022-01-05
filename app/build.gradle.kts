@@ -104,7 +104,6 @@ android {
 
     kotlinOptions {
         jvmTarget = JavaVersion.VERSION_11.toString()
-        useIR = true
     }
 
     packagingOptions {
@@ -167,7 +166,7 @@ dependencies {
 
     api("com.google.dagger:dagger:2.38.1")
     api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0-native-mt")
-    api("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2")
+    api("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0-native-mt")
 
     kapt("androidx.lifecycle:lifecycle-compiler:2.4.0")
     kapt("androidx.room:room-compiler:2.4.0")
