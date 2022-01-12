@@ -3,7 +3,6 @@
 ## About This Project (work-in-progress 👷🔧️👷‍♀️⛏)
 [![JitPack](https://jitpack.io/v/amirisback/nutrition-framework.svg?style=flat-square)](https://jitpack.io/#amirisback/nutrition-framework)
 - Test Case Implementation Dari [Nutrition Framework](https://github.com/amirisback/nutrition-framework)
-- Skenario : Consume Library
 
 ## Version Release
 This Is Latest Release
@@ -19,6 +18,7 @@ What's New??
 
 ### Scenario Test
 ![ScreenShoot Apps](docs/image/scenario_test.png?raw=true)
+- Kondisi Apps : Consume Library
 - Membuat 2 Activity, MainActivity dan DetailActivity
 - Pada MainActivity di buat request data dari API Server
 - Kemudian di check menggunakan profiler
