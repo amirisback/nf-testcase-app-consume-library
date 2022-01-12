@@ -16,8 +16,12 @@ What's New??
 
 ## Test Implementation
 
-### Scenario Test
-![ScreenShoot Apps](docs/image/scenario_test.png?raw=true)
+### Scenario Test TC-1
+![ScreenShoot Apps](docs/image/scenario-test-1.png?raw=true)
+
+### Scenario Test TC-2
+![ScreenShoot Apps](docs/image/scenario-test-2.png?raw=true)
+
 - Kondisi Apps : Consume Library
 - Membuat 2 Activity, MainActivity dan DetailActivity
 - Pada MainActivity di buat request data dari API Server
