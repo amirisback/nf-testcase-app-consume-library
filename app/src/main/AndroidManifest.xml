@@ -20,7 +20,7 @@
             android:name=".mvvm.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.NutritionFrameworkApp.NoActionBar">
+            android:theme="@style/Theme.NutritionFrameworkApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
