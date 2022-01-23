@@ -128,6 +128,16 @@ Using 2 Android Phone (Redmi Note 10 5G - Xiaomi M2103K19G) and (Oppo CPH1729)
 
 - Profiler Test Case 2 (TC-2) [more details](https://github.com/amirisback/nf-testcase-app-consume-library/tree/master/docs/image/result-profiler-test-case-2)
 
+<table>
+    <tr>
+        <th><a href="https://github.com/amirisback/nf-testcase-app-consume-library/tree/master/docs/image/result-profiler-test-case-2/redmi-note-10-5G">Redmi Note 10 5G - Xiaomi M2103K19G</a></th>
+        <th><a href="https://github.com/amirisback/nf-testcase-app-consume-library/tree/master/docs/image/result-profiler-test-case-2/oppo-CPH1729">Oppo CPH1729</a></th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/amirisback/nf-testcase-app-consume-library/master/docs/image/result-profiler-test-case-2/redmi-note-10-5G/test-case-1-all-general.png"></td>
+        <td><img src="https://raw.githubusercontent.com/amirisback/nf-testcase-app-consume-library/master/docs/image/result-profiler-test-case-2/oppo-CPH1729/test-case-1-all-general.png"></td>
+    </tr>
+</table>
 
 ## Documentation
 ### Research Data
